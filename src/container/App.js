@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CardList from '../Components/CardList';
-import Scroll from '../Scroll';
-import SearchBox from '../Components/SearchBox';
+import CardList from '../component/CardList';
+import Scroll from '../component/Scroll';
+import SearchBox from '../component/SearchBox';
 
 class App extends Component {
     constructor(){                               // special method , to initilize variables // 

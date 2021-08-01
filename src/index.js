@@ -1,10 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './containers/index.css';
+import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons'; 
-import App from './containers/App.js';
-import Scroll from '../Components/Scroll.js'
+import App from './container/App.js';
 
 ReactDOM.render(
   <React.StrictMode>
